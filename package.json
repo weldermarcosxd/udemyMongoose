@@ -1,0 +1,27 @@
+{
+  "name": "udemymongoose",
+  "version": "0.0.0",
+  "description": "doesnt matter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weldermarcosxd/udemyMongoose.git"
+  },
+  "keywords": [
+    "tests"
+  ],
+  "author": "umemaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weldermarcosxd/udemyMongoose/issues"
+  },
+  "homepage": "https://github.com/weldermarcosxd/udemyMongoose#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.8"
+  }
+}
